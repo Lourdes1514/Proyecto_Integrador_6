@@ -1,9 +1,2 @@
-\chapter{Product Backlog}
-
-\begin{tabular}{ |p{2.25cm}|p{5.5cm}|p{2.25cm}|p{2.25cm}| }
-	\hline
-	\rowcolor{blue!40}  \textbf{Item}  & \textbf{Detalle}  & \textbf{Prioridad} & \textbf{Estimado}   \\  \hline
-	\centering 1 & Definir las especialidades de los servicios domésticos & \centering Alta  & 3 Días  \\   \hline
-	\centering 2 &  Permitir que los servicios esten al alcance de los clientes las 24 horas, 7 días a la semana   & \centering Alta  &  5 Días \\   \hline
- 	\centering 3  &  Permitir que los trabajadores tengan más de una especialidad   & \centering Baja & 10 Días \\   \hline
-\end{tabular}
+\chapter{Visión del Proyecto}
+Desarrollar un aplicativo móvil que facilite la búsqueda de los trabajadores ya sean estos electricistas, carpinteros y gasfiteros, dando la elección de los más cercanos a su ubicación.
